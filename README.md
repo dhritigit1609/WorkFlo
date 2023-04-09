@@ -4,7 +4,7 @@ Employee Management System developed using PHP and MySQL.
 
 WorkFlo provides a centralised platform to manage the operations and processes of a company such as its employees, departments, tasks, projects, and financials. 
 
-WorkFlo is designed to be used by organisations of all sizes, with features that can be customised to meet the specific features of the organisation. The system will streamline operations and improve efficiency, leading to increased productivity and profitability. It will also provide valuable insights into organizational performance.
+WorkFlo is designed to be used by organisations of all sizes, with features that can be customised to meet the specific needs of the organisation. The system will streamline operations and improve efficiency, leading to increased productivity and profitability. It will also provide valuable insights into organizational performance.
 
 The employee logs in to the system using their unique login credentials. After logging in, they are directed to the dashboard, which displays the total number of employees, total number of leaves taken, total number of loans granted, current projects, and any notices from the admin. The employee can edit and update their personal information such as name, contact information, address, and emergency contact details.
 
